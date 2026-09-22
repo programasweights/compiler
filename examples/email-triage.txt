@@ -1,0 +1,1 @@
+Classify if a message needs immediate attention or can wait. Return only 'immediate' or 'wait'.

@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.paw
+*.gguf
+*.safetensors
+*.pt
+.paw-upload.json
+email-triage-adapter/
+checkpoints/
