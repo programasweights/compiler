@@ -151,4 +151,4 @@ Compile by Training builds on PAW with teacher-generated examples and task-speci
 - [Python SDK](https://github.com/programasweights/programasweights-python)
 - [Browser SDK](https://github.com/programasweights/programasweights-js)
 
-Code is released under the [MIT License](LICENSE). Model licenses are provided by their respective publishers.
+Model licenses are provided by their respective publishers.
