@@ -108,6 +108,42 @@ Both compiler checkpoints include the full compiler weights, tokenizer, learned 
 
 To use an already downloaded compiler checkpoint, pass `--checkpoint /path/to/checkpoint` and the matching `--compiler`.
 
+## Citation
+
+If you use this compiler in research, please cite Program-as-Weights, which introduces fuzzy-function programming and the fast compiler.
+
+**[Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)**
+
+```bibtex
+@misc{paw_2607_02512,
+  title = {{Program-as-Weights: A Programming Paradigm for Fuzzy Functions}},
+  author = {Zhang, Wentao and Hotsko, Liliana and Kim, Woojeong and Nie, Pengyu and Shieber, Stuart and Deng, Yuntian},
+  year = {2026},
+  note = {arXiv preprint},
+  eprint = {2607.02512},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.02512}
+}
+```
+
+### Related work
+
+Compile by Training builds on PAW with teacher-generated examples and task-specific training, using the same program format and runtime.
+
+**[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://arxiv.org/abs/2609.04199)**
+
+```bibtex
+@misc{paw_2609_04199,
+  title = {{Compile by Training: Turning Natural-Language Specifications into Local Neural Functions}},
+  author = {Deng, Yuntian and Nie, Pengyu and Shieber, Stuart},
+  year = {2026},
+  note = {arXiv preprint},
+  eprint = {2609.04199},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.04199}
+}
+```
+
 ## Learn more
 
 - [ProgramAsWeights paper](https://arxiv.org/abs/2607.02512)
