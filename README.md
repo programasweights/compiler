@@ -112,17 +112,17 @@ To use an already downloaded compiler checkpoint, pass `--checkpoint /path/to/ch
 
 If you use this compiler in research, please cite Program-as-Weights, which introduces fuzzy-function programming and the fast compiler.
 
-**[Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)**
+**[Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://openreview.net/forum?id=ppCD0mb6ty)**
+
+NeurIPS 2026 · [Preprint](https://arxiv.org/abs/2607.02512)
 
 ```bibtex
-@misc{paw_2607_02512,
+@inproceedings{zhang2026programasweights,
   title = {{Program-as-Weights: A Programming Paradigm for Fuzzy Functions}},
   author = {Zhang, Wentao and Hotsko, Liliana and Kim, Woojeong and Nie, Pengyu and Shieber, Stuart and Deng, Yuntian},
+  booktitle = {The Fortieth Annual Conference on Neural Information Processing Systems},
   year = {2026},
-  note = {arXiv preprint},
-  eprint = {2607.02512},
-  archivePrefix = {arXiv},
-  url = {https://arxiv.org/abs/2607.02512}
+  url = {https://openreview.net/forum?id=ppCD0mb6ty}
 }
 ```
 
